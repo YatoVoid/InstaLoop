@@ -1,3 +1,15 @@
+
+
+
+
+
+https://github.com/YatoVoid/InstaLoop/assets/98448225/598b148d-f47f-42b6-a930-514687dd140b
+
+
+
+
+
+
 # InstaLoop
 
 InstaLoop is a simple video player application developed using Python's Tkinter and OpenCV libraries. It allows users to select multiple video files (MP4, AVI, MKV formats supported) and play them in a continuous loop. The application features a user-friendly interface for managing selected videos and controlling playback.
