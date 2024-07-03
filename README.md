@@ -18,3 +18,14 @@ InstaLoop is a simple video player application developed using Python's Tkinter 
 
 InstaLoop is ideal for users seeking a lightweight video player capable of handling looping playback of multiple video files without unnecessary complexity.
 
+## Running on Linux
+
+### Prerequisites
+
+Ensure you have Python 3.x installed on your system. If not, you can download it from [python.org](https://www.python.org/downloads/) or install it via your package manager.
+
+### Installing Dependencies
+
+1. **OpenCV**: Install using pip:
+   ```bash
+   pip install opencv-python
