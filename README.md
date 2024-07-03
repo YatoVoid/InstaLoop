@@ -29,3 +29,22 @@ Ensure you have Python 3.x installed on your system. If not, you can download it
 1. **OpenCV**: Install using pip:
    ```bash
    pip install opencv-python
+
+2. **Tkinter**: Should be included with Python by default. If not installed, install python3-tk:
+   ```bash
+   sudo apt-get install python3-tk
+3. **screeninfo**: Install using pip:
+   ```bash
+   pip install screeninfo
+
+### Launching InstaLoop
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/InstaLoop.git
+2. **Navigate into the project directory**:
+   ```bash
+   cd InstaLoop
+3. **Run the application**:
+   ```bash
+   python3 InstaLoop.py
